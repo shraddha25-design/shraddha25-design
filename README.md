@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shraddha25-design
 - 👀 I’m interested in Machine learning and data science
-- 🌱 I’m currently working as a Data Scientist at VOZIQ & my Job includes predicting churn for the company
+- 🌱 I’m currently working as a Data Scientist at TCS and I work on predicting fradulent transactions in banks.
 - 📫 You can reach me on my email id shraddha.bhelawe43@gmail.com
 
 <!---
